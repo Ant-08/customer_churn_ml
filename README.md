@@ -93,5 +93,6 @@ python src/run_pipeline.py
 ```
 ### 6. Predict churn for new clients (demo)
 ```bash
+python src/generate_newclient.py
 python src/predict_new_client.py
 ```
