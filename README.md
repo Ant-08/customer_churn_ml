@@ -46,7 +46,7 @@ The following models were trained with optimized hyperparameters:
 - LightGBM (LGB)  
 - XGBoost (XGB)  
 
-All models achieved comparable performance with an **accuracy around 81%~82%** and **AUC ~0.85–0.86**. Logistic Regression slightly outperformed others in terms of F1-score.
+All models achieved comparable performance with an **accuracy around 76%~78%** and **AUC ~0.85–0.86**. Logistic Regression slightly outperformed others in terms of F1-score.
 
 ---
 
